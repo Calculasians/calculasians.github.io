@@ -1,2 +1,2 @@
 # calculasians.github.io
-website prototype
+Come back in a few weeks and find an epic website.
