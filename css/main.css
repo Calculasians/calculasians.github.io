@@ -22,12 +22,11 @@ a:hover {
 
 h1 {
     font-size: 3em;
-    font-family: "Times New Roman", Times, serif;
+    font-family: "Trebuchet", Times, 'Sans-Serif';
 }
 
-/*changing this to see if it's reflected on the main web*/
 .sub-header {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Palatino', 'Garamond', serif;
     font-style: oblique;
     font-size: 1.5em;
     line-height: 1.4em;
