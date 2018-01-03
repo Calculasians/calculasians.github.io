@@ -11,8 +11,6 @@ body {
 }
 
 nav ul, footer ul {
-    margin-top: 0px;
-    margin-bottom: 0px;
     font-family:'Museo Slab', 'Roboto', sans-serif;
     padding: 0px;
     list-style: none;
