@@ -4,7 +4,7 @@ body {
 }
 
 .top-row {
-	display: inline-block;
+   display: inline-block;
 }
 
 header {
@@ -14,7 +14,7 @@ header {
 }
 
 nav ul, footer ul {
-	display: block;
+    display: block;
     font-family:'Museo Slab', 'Roboto', sans-serif;
     padding: 0px;
     list-style: none;
@@ -23,7 +23,7 @@ nav ul, footer ul {
     text-align: right;
 }
 nav ul li, footer ul li {
-	display: inline-block;
+    display: inline-block;
     margin-right: 20px;
     text-align: right;
 }
