@@ -15,7 +15,7 @@ header {
 
 nav ul, footer ul {
     display: block;
-    font-family:'Museo Slab', 'Roboto', sans-serif;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
