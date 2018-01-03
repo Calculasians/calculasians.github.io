@@ -4,17 +4,21 @@ body {
 }
 
 .top-row {
-    display:inline-block
+	display: inline-block;
 }
 
+
 nav ul, footer ul {
+	display: block;
     font-family:'Museo Slab', 'Roboto', sans-serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    width:100%;
     text-align: right;
 }
 nav ul li, footer ul li {
+	display: inline-block;
     margin-right: 20px;
     text-align: right;
 }
