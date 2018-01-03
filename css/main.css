@@ -2,6 +2,11 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+
+.home_button {
+    display:inline-block
+}
+
 nav ul, footer ul {
     margin-top: 0px;
     margin-bottom: 0px;
