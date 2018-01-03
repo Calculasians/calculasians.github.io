@@ -44,13 +44,7 @@ a:hover {
     color: #FF6347
 }
 
-h1 {
-    font-size: 35px;
-    font-family: "Anonymous Pro", monospace;
-    font-weight: 5;
-}
-
-.it {
+h1, .it {
     font-size: 35px;
     font-family: "Anonymous Pro", monospace;
     font-weight: 5;
