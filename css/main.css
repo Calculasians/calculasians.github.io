@@ -44,16 +44,12 @@ a:hover {
     color: #FF6347
 }
 
-.front-caption {
+h1 {
     font-size: 35px;
     font-family: "Anonymous Pro", monospace;
     font-weight: 5;
 }
 
-/*
-h1 {
-    font-size: 2em;
-}*/
 
 .sub-header {
     font-family:'Palatino', 'Garamond', serif;
