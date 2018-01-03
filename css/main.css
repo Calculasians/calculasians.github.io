@@ -50,6 +50,15 @@ h1 {
     font-weight: 5;
 }
 
+.it {
+    font-size: 35px;
+    font-family: "Anonymous Pro", monospace;
+    font-weight: 5;
+}
+
+.it:hover {
+    font-style: italic:
+}
 
 .sub-header {
     font-family:'Palatino', 'Garamond', serif;
