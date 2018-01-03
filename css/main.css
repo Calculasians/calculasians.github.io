@@ -7,6 +7,10 @@ body {
     display: inline-block;
 }
 
+.home-button {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
 header {
     display: flex;
     justify-content: space-between;
