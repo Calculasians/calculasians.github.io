@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 
-.home_button {
+.home-button {
     display:inline-block
 }
 
@@ -26,7 +26,7 @@ a {
     color: #2F4F4F;
 }
 a:hover {
-    color: #006400
+    color: #ADFF2F
 }
 
 h1 {
