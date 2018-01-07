@@ -1,6 +1,6 @@
 body {
     margin: 5px auto;
-    /*width: 100%;*/  /*test change here*/
+    
 }
 
 .top-row {
@@ -19,7 +19,7 @@ h2 {
 header {
     margin-left: auto;
     margin-right: auto;
-    width: 80%;   /*test change here*/
+    width: 80%;   
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -58,7 +58,7 @@ h1 {
 }*/
 
 .container {
-    width: 100% /*test change here*/
+    width: 100%;
 }
 
 .cover-page { /*temporary image until I know how to use one from my own computer*/
