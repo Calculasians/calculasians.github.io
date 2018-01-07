@@ -56,6 +56,7 @@ h1 {
 
 .container {
     width: 100%
+    box-sizing: border-box;
 }
 
 .cover-page { /*temporary image until I know how to use one from my own computer*/
@@ -63,6 +64,7 @@ h1 {
     height: 400px;
     background-image: url(https://www.nps.gov/mora/planyourvisit/images/mountseries2rainierlentics-1-26-2011sdredmaneatvilwa_web.jpeg);
     background-size: cover;
+    box-sizing: border-box;
 }
 
 .sub-header {
