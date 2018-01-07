@@ -54,8 +54,8 @@ h1 {
     font-style: italic:
 }*/
 
-.cover-page {
-    background-image: url(https://imgur.com/a/gOZZx);
+.cover-page { /*temporary image until I know how to use one from my own computer*/
+    background-image: url(https://www.nps.gov/mora/planyourvisit/images/mountseries2rainierlentics-1-26-2011sdredmaneatvilwa_web.jpeg);
 }
 
 .sub-header {
