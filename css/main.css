@@ -48,6 +48,7 @@ a:hover {
 }
 
 h1 {
+    margin-left: 7%;
     font-size: 35px;
     font-family: "Anonymous Pro", monospace;
     font-weight: 5;
@@ -78,6 +79,8 @@ h1 {
 }
 
 p {
+    margin-left: 7%;
+    margin-right: 7%;
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
@@ -100,5 +103,6 @@ ul.posts li {
 }
 
 .test-about {
-    width: 80%;
+    margin-left: 7%;
+    margin-right: 7%;
 }
