@@ -56,7 +56,6 @@ h1 {
 
 .container {
     width: 100%
-    box-sizing: border-box;
 }
 
 .cover-page { /*temporary image until I know how to use one from my own computer*/
