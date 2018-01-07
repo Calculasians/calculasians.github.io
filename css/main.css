@@ -98,3 +98,7 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.test-about {
+    width: 80%;
+}
