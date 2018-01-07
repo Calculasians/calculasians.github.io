@@ -54,6 +54,10 @@ h1 {
     font-style: italic:
 }*/
 
+.cover-page {
+    background-image: url(https://imgur.com/a/gOZZx);
+}
+
 .sub-header {
     font-family:'Palatino', 'Garamond', serif;
     font-style: italic;
