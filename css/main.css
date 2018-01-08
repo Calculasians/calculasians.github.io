@@ -74,6 +74,11 @@ h1 {
     box-sizing: border-box;
 }
 
+.cover-page-text {
+    margin-top: 150px;
+    margin-left: 300px;
+}
+
 .sub-header {
     font-family:'Palatino', 'Garamond', serif;
     font-style: italic;
