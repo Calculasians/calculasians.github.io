@@ -5,10 +5,12 @@ body {
 
 .top-row {
     display: inline-block;
+    height: 35px;
 }
 
 .home-button {
     font-family: 'Raleway', "Trebuchet MS", Helvetica, sans-serif;
+    margin-top: -10px;
 }
 
 h2 {
