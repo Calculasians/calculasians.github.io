@@ -64,9 +64,9 @@ h1 {
     width: 100%;
 }
 
-.cover-page { /*temporary image until I know how to use one from my own computer*/
+.cover-page { 
     width: 100%;
-    height: 400px;
+    height: 500px;
     background-image: url("https://calculasians.github.io/CraterLake.jpg");
     background-size: cover;
     box-sizing: border-box;
