@@ -88,6 +88,14 @@ h1 {
     color: #333;
 }
 
+.blog-posts {
+    margin-left: 7%;
+    margin-right: 7%;
+    font-family: 'Raleway', "Trebuchet MS", Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 1.2em;
+}
+
 p {
     margin-left: 7%;
     margin-right: 7%;
