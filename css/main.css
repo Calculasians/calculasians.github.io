@@ -51,7 +51,7 @@ a:hover {
     color: #FF6347
 }
 
-.post-title {
+.post-title, .blog-title {
     text-align: center;
     margin-left: 20%;
     margin-right: 20%;
@@ -136,6 +136,7 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+    margin-left: 7%;
 }
 
 .test-about {
