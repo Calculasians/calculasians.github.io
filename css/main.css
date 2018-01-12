@@ -36,12 +36,9 @@ header {
     top: 0;
     margin-left: 7.5%;
     width: 85%;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
 }
 
-.sticky + .content {
+.sticky + .container {
     padding-top: 102px;
 }
 
