@@ -3,7 +3,7 @@ layout: post
 title: "A Completely Ridiculous Flow of Thought About The Japanese Language"
 date: 2017-11-30
 ---
-<pre class="japanese-story">
+<pre class="blog-posts">
 
 
 This journey makes references to Lingq.com, an old website that had once partially contributed to my ability to speak Japanese today. A “Lingq” is essentially an online vocabulary card.
