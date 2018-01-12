@@ -154,6 +154,8 @@ ul.posts {
 }
 
 ul.posts li {
+    position: relative;
+    top: 20px;
     list-style: none;
     margin-left: 7%;
     font-family: 'Raleway', "Trebuchet MS", Helvetica, sans-serif;
