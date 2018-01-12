@@ -39,7 +39,7 @@ header {
 }
 
 .sticky + .container {
-    padding-top: 102px;
+    padding-top: 50px;
 }
 
 nav ul, footer ul {
