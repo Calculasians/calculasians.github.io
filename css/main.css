@@ -3,6 +3,8 @@ body {
 }
 
 .top-row {
+    margin-left: 7.5%;
+    margin-right: 7.5%;
     display: inline-block;
     height: 35px;
 }
@@ -18,10 +20,7 @@ h2 {
 }
 
 header {
-    margin-left: auto;
-    margin-right: auto;
-    height: 35px; 
-    width: 85%;   
+    height: 35px;   
     display: flex;
     justify-content: space-between;
     align-items: center;
