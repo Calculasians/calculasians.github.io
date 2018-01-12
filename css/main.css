@@ -28,6 +28,16 @@ header {
     align-items: center;
 }
 
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.sticky + .content {
+    padding-top: 102px;
+}
+
 nav ul, footer ul {
     display: block;
     font-family: 'Raleway', "Trebuchet MS", Helvetica, sans-serif;
