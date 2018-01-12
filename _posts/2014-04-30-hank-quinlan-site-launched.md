@@ -3,7 +3,7 @@ layout: post
 title: "A Completely Ridiculous Flow of Thought About The Japanese Language"
 date: 2017-11-30
 ---
-
+<div class='test-story'>
 ***
 
 This journey makes references to Lingq.com, an old website that had once partially contributed to my ability to speak Japanese today. A “Lingq” is essentially an online vocabulary card.
@@ -29,3 +29,4 @@ Despite the fact that I had seemingly lost contact with the sun, I knew that in 
 Maybe it was a part of my own soul dictating to the sun, Rise!, but in the intermediate reality I knew I was patiently waiting minute after minute, hour after hour, thinking about the sun while throughout the entire moment still jamming my fingers to the space bar on my Windows 7 glancing at the top right corner every once in a while thinking how many more times is this story going to reference a previously referenced reference. I did not care. I decided I needed to take a break, and I stopped. I put my computer down and looked up at the sky. Finally without the weight of the computer on my lap, I rose, standing up on my two legs and looked over the skyline. And there it was, the sun, staring back at me with the same face I saw yesterday, grinning back at me. I instantly opened my mouth to speak, but the sun, beating me to it, replied, “speak!” And I spoke, and first words that flowed out of my mouth were, “Watashi ha nihonjin desu. Ohayou gozaimasu.” It took me 2 and 3/4 of a second after this to realize what I had just said, and 2 and 2/3 of a second for the sun to spit back at me three words that I will never regret hearing. “Nihon ni youkoso.”
 
 I knew what it meant! Not just the Japanese, of course I understood that after a day of punching my fist into a crippled space bar on my Windows 7 keyboard covered in tryhard sweat. I understood my fluid place in society, my duty as a newly born Japanese to fulfill my duty to learn the culture and history behind the backdrop in front of me. And it took only 3 seconds for me to reply back, “Japan, here I come.”
+</div>
