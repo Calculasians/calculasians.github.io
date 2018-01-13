@@ -34,6 +34,7 @@ header {
     padding-bottom: 10px;
     width: 100%;
     background-color: #eafff8;
+    border-bottom: 1px solid #9fffe0; 
 }
 
 .sticky + .container {
