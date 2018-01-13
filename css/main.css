@@ -33,6 +33,7 @@ header {
     top: 0;
     padding-bottom: 10px;
     width: 100%;
+    background-color: #eafff8;
 }
 
 .sticky + .container {
