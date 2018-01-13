@@ -159,6 +159,14 @@ ul.posts li {
     font-style: italic;
 }
 
-.test-about {
-    margin-right: 7%;
+#about {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    font-family: monospace;
+    font-size: 20px;
+    white-space: nowrap;
 }
+
