@@ -16,7 +16,7 @@
                  		<div class='top-row'>
 					<nav class='right'>
 						<ul>
-							<li><a href="#about-page">About</a></li>
+							<li id='about'><a href="#about-page">About</a></li>
 	        					<li><a href="/resume">Resume</a></li>
 	        					<li><a href="/blog">Writings</a></li>
 	    					</ul>
@@ -40,6 +40,16 @@
 	</html>
 
 <script>
+	// button smooth scrolling
+	$("#about").click(function() {
+    		$('html,body').animate({
+        		scrollTop: $("#about-page").offset().top},
+        		'slow');
+	});	
+	
+	
+	
+	// header sticks to top when scrolling
 	window.onscroll = function() {myFunction()};
 	var header = document.getElementById("myHeader");
 	var sticky = header.offsetTop;
