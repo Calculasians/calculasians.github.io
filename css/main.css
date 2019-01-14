@@ -31,7 +31,7 @@ header {
 .sticky {
     position: fixed;
     top: 0;
-    padding-bottom: 10px;
+    padding-bottom: 20px;
     width: 100%;
     background-color: #eafff8;
     border-bottom: 1px solid #969696; 
