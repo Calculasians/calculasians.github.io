@@ -98,18 +98,18 @@ h1 {
 
 .main-button {
     border-radius: 4px;
-    background-color: #d0c219;
+    background-color: #1cc9d2;
     border: none;
-    color: #FFFFFF;
+    color: #ffffff;
     text-align: center;
     font-size: 18px;
     font-family: "Anonymous Pro", monospace;
     padding: 20px;
-    width: 160px;
+    width: 145px;
     height: 60px;
     transition: all 0.5s;
     cursor: pointer;
-    margin-top: 270px;
+    margin-top: 300px;
 }
 
 .main-button span {
