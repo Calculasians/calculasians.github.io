@@ -231,8 +231,8 @@ ul.posts li {
 
 #about-desc {
     position: absolute;
-    left: 0px;
-    top: 0px;
+    left: 100px;
+    top: 100px;
     width: 50%;
     height: 100%;
 }
@@ -240,7 +240,7 @@ ul.posts li {
 #about-pic {
     position: absolute;
     right: 0px;
-    top: 0px;
-    width: 50%;
+    top: 120px;
+    width: 40%;
     height: 100%;
 }
