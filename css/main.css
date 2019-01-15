@@ -92,6 +92,10 @@ h1 {
     font-weight: 5;
 }
 
+.wrap-button {
+    text-align: center;
+}
+
 .main-button {
     border-radius: 4px;
     background-color: #67e83c;
