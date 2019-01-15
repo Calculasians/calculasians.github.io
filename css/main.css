@@ -227,3 +227,18 @@ ul.posts li {
     padding-top: 60px;
 }
 
+#about-desc {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 50%;
+    height: 100%;
+}
+
+#about-pic {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    width: 50%;
+    height: 100%;
+}
