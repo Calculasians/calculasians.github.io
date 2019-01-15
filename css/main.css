@@ -94,13 +94,14 @@ h1 {
 
 .main-button {
     border-radius: 4px;
-    background-color: #f4511e;
+    background-color: #67e83c;
     border: none;
     color: #FFFFFF;
     text-align: center;
-    font-size: 28px;
+    font-size: 20px;
     padding: 20px;
-    width: 200px;
+    width: 180px;
+    height: 60px;
     transition: all 0.5s;
     cursor: pointer;
     margin: 5px;
@@ -114,7 +115,7 @@ h1 {
 }
 
 .main-button span:after {
-    content: '\00bb';
+    content: '\21af';
     position: absolute;
     opacity: 0;
     top: 0;
