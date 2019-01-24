@@ -152,11 +152,6 @@ h1 {
     box-sizing: border-box;
    
     background-image: url("https://calculasians.github.io/CraterLake.jpg");
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 
 .cover-page-text {
