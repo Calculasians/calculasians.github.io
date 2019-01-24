@@ -143,15 +143,11 @@ h1 {
 }
 
 .cover-page { 
-    max-width:100%;
-    height:auto;
-    max-height:100%;
-    width:100vw;
-    height:100vh;
-    
-    box-sizing: border-box;
-   
+    width: 100%;
+    height: 500px;
     background-image: url("https://calculasians.github.io/CraterLake.jpg");
+    background-size: cover;
+    box-sizing: border-box;
 }
 
 .cover-page-text {
