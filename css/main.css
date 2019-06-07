@@ -52,13 +52,19 @@ nav ul li, footer ul li {
     margin-right: 20px;
     text-align: right;
 }
+
 a {
     text-decoration: none;
-    color: #2F4F4F;
-    transition: color 0.16s ease-in-out;
+    color: white;
 }
+
 a:hover {
-    color: #FF6347
+
+    -webkit-transition: all 0.7s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+  margin-left: 6px;
 }
 
 .post-title, .blog-title {
