@@ -51,6 +51,12 @@
    			header.classList.remove("sticky");
   		}
 	}
+	
+$(function() {
+    $('a').click( function() {
+        $($(this).parent()).css('background-color', '#ccc');
+    });
+});
 
 
 </script>
