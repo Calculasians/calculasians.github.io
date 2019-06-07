@@ -30,48 +30,12 @@ nav {
     cursor: pointer;
 }
 
-/*
-.top-row {
-    margin-left: 7.5%;
-    margin-right: 7.5%;
-    display: inline-block;
-    height: 35px;
-}
-
-.home-button {
-    font-family: 'Raleway', "Trebuchet MS", Helvetica, sans-serif;
-    margin-top: -10px;
-}
-*/
 h2 {
     font-weight: 100;
     font-size: 24px;
 }
 
 
-
-/*
-header {
-    height: 35px;   
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background-color: #ffffff;
-    z-index: 1000;
-}
-
-.sticky {
-    position: fixed;
-    top: 0;
-    padding-bottom: 25px;
-    width: 100%;
-    background-color: #eafff8;
-    -webkit-transition: background-color 0.5s ease-in-out;
-}
-
-.sticky + .container {
-    padding-top: 30px;
-}*/
 
 nav ul, footer ul {
     display: block;
