@@ -52,10 +52,10 @@
   		}
 	}
 	
-$(function() {
-    $('a').click( function() {
-        $($(this).parent()).css('background-color', '#ccc');
-    });
+$("li").on("click", function (e) {
+    e.preventDefault();
+    $(this).siblings("li").css("fontWeight", "normal");
+    $(this).css("fontWeight", "bold");
 });
 
 
