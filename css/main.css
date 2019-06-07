@@ -104,12 +104,11 @@ h1 {
     text-align: center;
     font-size: 18px;
     font-family: "Anonymous Pro", monospace;
-    padding: 20px;
-    width: 145px;
+    width: 160px;
     height: 60px;
     transition: all 0.5s;
     cursor: pointer;
-    margin-top: 300px;
+    margin-top: 35vh;
 }
 
 .main-button span {
@@ -144,7 +143,7 @@ h1 {
 
 .cover-page { 
     width: 100%;
-    height: 500px;
+    height: 100vh;
     background-image: url("https://calculasians.github.io/CraterLake.jpg");
     background-size: cover;
     box-sizing: border-box;
@@ -152,8 +151,8 @@ h1 {
 
 .cover-page-text {
     position: relative; 
-    margin-left: 400px;
-    top: 60px;
+    margin-left: 70vh;
+    top: 10vh;
 }
 
 .sub-header {
