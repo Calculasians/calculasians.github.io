@@ -3,22 +3,23 @@ html {
 }
 
 body {
-    margin: 5px auto;  
+    margin: 5px auto; 
+    background-color: black;
 }
 
 nav {
     text-align: left;
-    left: 3vw;
+    left: 7vw;
     position: fixed;
-    top: 8vh;
+    top: 13vh;
     z-index: 1;
-    
-    font-family: 'Raleway', "Trebuchet MS", Helvetica, sans-serif;
+    color: white;
+    font-family:'Palatino', 'Garamond', serif;    
     mix-blend-mode: difference;
 }
 
 .nav-buttonbig {
-    font-size: 30px;
+    font-size: 35px;
     margin-bottom: 20px;
 }
 
@@ -80,7 +81,7 @@ a:hover {
 h1 {
     margin-left: 7%;
     font-size: 35px;
-    font-family: "Anonymous Pro", monospace;
+    font-family:'Palatino', 'Garamond', serif;
     font-weight: 5;
 }
 
@@ -138,23 +139,27 @@ h1 {
     position: relative
     width: 100%;
     height: 100vh;
-    background-image: url("https://calculasians.github.io/CraterLake.jpg");
+    background-image: url("../CraterLake.jpg");
     background-size: cover;
     box-sizing: border-box;
+    filter: brightness(95%);
+
 }
 
 .cover-page-text {
     position: relative; 
     margin-left: 70vh;
-    top: 10vh;
+    top: 13vh;
+    color: white;
+    mix-blend-mode: difference;
 }
 
 .sub-header {
     font-family:'Palatino', 'Garamond', serif;
     font-style: italic;
     font-size: 1.2em;
-    line-height: 1.2em;
-    color: #333;
+    color: white;
+    mix-blend-mode: difference;
 }
 
 pre {
@@ -172,12 +177,12 @@ pre {
 }
 
 p {
+    color: white;
     margin-left: 7%;
     margin-right: 7%;
     font-size: 1.15em;
     font-family: 'Raleway', "Trebuchet MS", Helvetica, sans-serif;
     line-height: 1.4em;
-    color: #333;
 }
 footer {
     margin-left: auto;
@@ -209,13 +214,15 @@ ul.posts li {
 }
 
 #about-page {
-    margin-left: 7vw;
+    color: white;
+    margin-left: 10vw;
     position: relative;
     height: 90vh;
     padding-top: 60px;
 }
 
 #about-desc {
+    color: white;
     position: absolute;
     left: 100px;
     top: 100px;
