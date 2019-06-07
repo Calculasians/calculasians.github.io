@@ -9,10 +9,10 @@
 			
 			<nav>
 				<div class="nav-buttonbig" id="nav-name">Daniel</div>
-				<div class="nav-button" id="nav-name">About</div>
-				<div class="nav-button" id="nav-name">Resume</div>
-				<div class="nav-button" id="nav-name">Projects</div>
-				<div class="nav-button" id="nav-name">Writings</div>
+				<div class="nav-button" id="nav-about">About</div>
+				<div class="nav-button" id="nav-resume">Resume</div>
+				<div class="nav-button" id="nav-projects">Projects</div>
+				<div class="nav-button" id="nav-writings">Writings</div>
 				
 			</nav>
 			<!-- <header id="myHeader">
@@ -49,6 +49,8 @@
 
 <script>
 	
+
+	
 	/*
 	// header sticks to top when scrolling
 	window.onscroll = function() {myFunction()};
@@ -68,5 +70,10 @@ $("li").on("click", function (e) {
     $(this).css("fontWeight", "bold");
 });
 */
+	
+	
+$("#nav-about").click(function() {
+        $("#about-page").scrollTop($(window).height());
+    })
 
 </script>
