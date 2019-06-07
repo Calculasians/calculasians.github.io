@@ -10,7 +10,7 @@ nav {
     text-align: left;
     left: 3vw;
     position: fixed;
-    top: 5vh;
+    top: 8vh;
     z-index: 1;
     
     font-family: 'Raleway', "Trebuchet MS", Helvetica, sans-serif;
@@ -19,12 +19,12 @@ nav {
 
 .nav-buttonbig {
     font-size: 30px;
-    margin-bottom: 8px;
+    margin-bottom: 20px;
 }
 
 .nav-button {
     font-size: 20px;
-    margin-bottom: 4px;
+    margin-bottom: 10px;
 }
 .nav-item:hover {
     cursor: pointer;
@@ -245,6 +245,7 @@ ul.posts li {
 }
 
 #about-page {
+    margin-left: 7vw;
     position: relative;
     height: 90vh;
     padding-top: 60px;
