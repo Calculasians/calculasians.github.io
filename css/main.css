@@ -214,6 +214,7 @@ ul.posts li {
     font-style: italic;
 }
 
+/* #about is deprecated */
 #about {
     margin-left: 7%;
     margin-right: 7%;
@@ -263,4 +264,10 @@ ul.posts li {
 
 .blog-posts {
     color: white;
+}
+
+#resume {
+    margin-left: 10vw;
+    position: relative;
+    height: 90vh;
 }
