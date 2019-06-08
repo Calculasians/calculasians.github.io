@@ -246,14 +246,21 @@ ul.posts li {
 
 #writings {
     color: white;
-    margin-left: 10vw;    
+    margin-left: 13vw;    
     margin-right: 7%;
+    height: 60vh;
 }
 
 .blog-title {
     font-family: 'Raleway', "Trebuchet MS", Helvetica, sans-serif;
+    text-align: center;
+    margin-bottom: 40px;
 }
 
 .posts {
+    color: white;
+}
+
+.blog-posts {
     color: white;
 }
