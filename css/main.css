@@ -266,8 +266,12 @@ ul.posts li {
     color: white;
 }
 
-#resume {
-    margin-left: 10vw;
+#resume-background {
     position: relative;
     height: 90vh;
+    background-image: url("../yellowstone.jpg");
+}
+
+#resume-content {
+    margin-left: 10vw;   
 }
