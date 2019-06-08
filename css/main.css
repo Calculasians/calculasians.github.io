@@ -24,6 +24,7 @@ nav {
 }
 
 .nav-button {
+    font-family: 'Raleway', "Trebuchet MS", Helvetica, sans-serif;
     font-size: 20px;
     margin-bottom: 10px;
 }
@@ -161,9 +162,9 @@ h1 {
 }
 
 .sub-header {
-    font-family:'Palatino', 'Garamond', serif;
+    font-family: 'Raleway', "Trebuchet MS", Helvetica, sans-serif;
     font-style: italic;
-    font-size: 1.2em;
+    font-size: 1.1em;
     color: white;
     mix-blend-mode: difference;
 }
