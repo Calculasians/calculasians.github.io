@@ -282,3 +282,10 @@ ul.posts li {
     margin-left: 20vw;
     margin-top: 5vh;
 }
+
+#projects {
+    position: relative;
+    margin-left: 20vw;
+    height: 100vh;
+    
+}
