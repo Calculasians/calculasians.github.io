@@ -1,9 +1,10 @@
 html {
+  
     scroll-behavior: smooth;
 }
 
 body {
-    margin: 5px auto; 
+    margin: 0px auto; 
     background-color: black;
 }
 
@@ -246,7 +247,7 @@ ul.posts li {
 }
 
 #writings-page {
-    background-color: lightgrey;
+    background-color: black;
 }
 
 #writings {
@@ -290,6 +291,8 @@ ul.posts li {
 #projects {
     position: relative;
     background-color: lightgrey;
+    padding-top: 30px;
+    padding-bottom: 40px;
 }
 
 .resize {
@@ -300,7 +303,7 @@ ul.posts li {
 #proj-box {
     padding-left: 20vw;
     padding-top: 25px;
-    padding-bottom: 10px;
+    padding-bottom: 15px;
 }
 
 #proj-pic {
