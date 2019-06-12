@@ -1,10 +1,10 @@
 html {
     scroll-behavior: smooth;
+
 }
 
 body {
     margin: 5px auto; 
-    background-color: black;
 }
 
 nav {
@@ -223,8 +223,7 @@ ul.posts li {
 }
 
 #about-page {
-    color: white;
-    margin-left: 10vw;
+    background-color: black;
     position: relative;
     height: 90vh;
     padding-top: 60px;
@@ -233,6 +232,7 @@ ul.posts li {
 #about-desc {
     color: white;
     position: absolute;
+    margin-left: 10vw;
     left: 100px;
     top: 100px;
     width: 50%;
@@ -245,8 +245,12 @@ ul.posts li {
     width: 40%;
 }
 
+#writings-page {
+    background-color: lightgrey;
+}
+
 #writings {
-    color: white;
+    color: black;
     margin-left: 13vw;    
     margin-right: 7%;
     height: 60vh;
@@ -285,11 +289,45 @@ ul.posts li {
 
 #projects {
     position: relative;
-    margin-left: 20vw;
-    background-color: white;
+    background-color: lightgrey;
 }
 
 .resize {
     width: 160px;
     height: 180px;
+}
+
+#proj-box {
+    padding-left: 20vw;
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+
+#proj-pic {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+#proj-desc-box {
+    display: inline-block;
+}
+
+#proj-header {
+    font-size: 30px;
+    font-family: 'Raleway', "Trebuchet MS", Helvetica, sans-serif;
+    margin-bottom: 2px;
+}
+
+#proj-time {
+    font-size: 18px;
+    font-family: 'Raleway', "Trebuchet MS", Helvetica, sans-serif;
+    margin-bottom: 10px;
+}
+
+
+#proj-desc {
+    font-size: 18px;
+    font-family: 'Raleway', "Trebuchet MS", Helvetica, sans-serif;
+    margin-right: 20px;
+    margin-bottom: 3px;
 }
