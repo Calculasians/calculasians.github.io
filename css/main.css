@@ -296,6 +296,7 @@ ul.posts li {
 }
 
 .resize {
+    object-fit: cover;
     width: 180px;
     height: 180px;
 }
@@ -313,6 +314,7 @@ ul.posts li {
 
 #proj-desc-box {
     display: inline-block;
+    width: 50vw;
 }
 
 #proj-header {
