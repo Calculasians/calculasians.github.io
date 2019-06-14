@@ -157,7 +157,7 @@ h1 {
 
 .cover-page-text {
     position: relative; 
-    margin-left: 70vh;
+    margin-left: 70vw;
     top: 13vh;
     color: white;
     mix-blend-mode: difference;
