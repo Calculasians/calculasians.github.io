@@ -63,13 +63,15 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: white;
+}
+
+.mini-link {
+    color: white;
     transition: 0.5s ease-in-out;
 }
 
-a:hover {
-
-color: #34cc2c;
-
+.mini-link:hover {
+    color: #34cc2c;
 }
 
 .post-title, .blog-title {
