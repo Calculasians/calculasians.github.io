@@ -304,6 +304,7 @@ ul.posts li {
     object-fit: cover;
     width: 180px;
     height: 180px;
+    border-radius: 10px;
 }
 
 #proj-box {
