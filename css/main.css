@@ -162,8 +162,8 @@ h1 {
 
 .cover-page-box {
     display: inline-block;
-    margin-left: 30vw;
-    margin-right: 10vw;
+    margin-left: 20vw;
+    margin-right: 20vw;
     margin-top: 20vh;
     background-color: #ffffff;
     border: 1px solid white;
@@ -175,6 +175,7 @@ h1 {
     position: inline-block; 
     color: white;
     mix-blend-mode: difference;
+    padding-bottom: 40px;
 }
 
 .sub-header {
