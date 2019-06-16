@@ -94,7 +94,7 @@ a {
 h1 {
     color: white;
     margin-left: 7%;
-    font-size: 30px;
+    font-size: 35px;
     font-family: 'Raleway', "Trebuchet MS", Helvetica, sans-serif;
     font-weight: 5;
 }
@@ -169,12 +169,10 @@ h1 {
 }
 
 .cover-page-header {
-    text-align: center;
     font-size: 30px;
 }
 
 .cover-page-text {
-    text-align: center;
     position: inline-block; 
     color: white;
     mix-blend-mode: difference;
