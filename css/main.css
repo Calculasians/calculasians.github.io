@@ -176,6 +176,7 @@ h1 {
 }
 
 .cover-page-text {
+    text-align: center;
     position: inline-block; 
     color: white;
     mix-blend-mode: difference;
