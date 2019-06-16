@@ -164,11 +164,8 @@ h1 {
     display: inline-block;
     margin-left: 20vw;
     margin-right: 20vw;
-    margin-top: 20vh;
-    background-color: #ffffff;
-    border: 1px solid white;
-    opacity: 0.8;
-    filter: alpha(opacity=80); 
+    margin-top: 10vh;
+    border: 1px white;
 }
 
 .cover-page-header {
