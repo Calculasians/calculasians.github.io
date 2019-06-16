@@ -181,7 +181,7 @@ title: A Website in the Making
 		<ul class="posts">
 
 	  	{% for post in site.posts %}
-	    	<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	    	<li><span>{{ post.date | date_to_string }}</span> » <a class="mini-link" target="_blank" href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  	{% endfor %}
 		</ul>
 	</div>
