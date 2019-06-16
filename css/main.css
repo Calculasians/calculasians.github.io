@@ -171,6 +171,10 @@ h1 {
     filter: alpha(opacity=80); 
 }
 
+.cover-page-header {
+    text-align: center;
+}
+
 .cover-page-text {
     position: inline-block; 
     color: white;
