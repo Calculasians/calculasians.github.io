@@ -160,6 +160,13 @@ h1 {
 
 }
 
+.cover-page-box {
+    background-color: #ffffff;
+    border: 1px solid white;
+    opacity: 0.8;
+    filter: alpha(opacity=80); 
+}
+
 .cover-page-text {
     position: relative; 
     margin-left: 35vw;
