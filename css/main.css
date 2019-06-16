@@ -161,6 +161,10 @@ h1 {
 }
 
 .cover-page-box {
+    display: inline-block;
+    margin-left: 30vw;
+    margin-right: 10vw;
+    margin-top: 20vh;
     background-color: #ffffff;
     border: 1px solid white;
     opacity: 0.8;
@@ -168,9 +172,7 @@ h1 {
 }
 
 .cover-page-text {
-    position: relative; 
-    margin-left: 35vw;
-    top: 13vh;
+    position: inline-block; 
     color: white;
     mix-blend-mode: difference;
 }
