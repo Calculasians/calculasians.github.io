@@ -240,7 +240,7 @@ ul.posts li {
 }
 
 #about-page {
-    background-color: black;
+    background-color: white;
     position: relative;
     height: 90vh;
     padding-top: 60px;
@@ -251,14 +251,21 @@ ul.posts li {
     margin-left: 10vw;
     left: 100px;
     top: 100px;
-    width: 50%;
+    width: 40%;
 }
 
-#about-desc, #about-header {
-    color: white;
+#about-desc {
+    color: black;
+    font-size: 15px;
+}
+
+#about-header {
+    color: black;
+    font-size: 30px;
 }
 
 #about-pic {
+    color: black;
     position: absolute;
     right: 0px;
     top: 120px;
