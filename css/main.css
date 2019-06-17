@@ -246,13 +246,16 @@ ul.posts li {
     padding-top: 60px;
 }
 
-#about-desc {
-    color: white;
+#about-box {
     position: absolute;
     margin-left: 10vw;
     left: 100px;
     top: 100px;
     width: 50%;
+}
+
+#about-desc, #about-header {
+    color: white;
 }
 
 #about-pic {
