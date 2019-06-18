@@ -5,7 +5,7 @@ html {
 
 body {
     margin: 0px auto; 
-    background-color: black;
+    background-color: white;
 }
 
 nav {
@@ -62,7 +62,7 @@ nav ul li, footer ul li {
 
 a {
     text-decoration: none;
-    color: white;
+    color: black;
 }
 
 .mini-link {
@@ -278,6 +278,7 @@ ul.posts li {
 }
 
 #writings {
+    padding-top: 30px;
     color: white;
     margin-left: 13vw;    
     margin-right: 7%;
