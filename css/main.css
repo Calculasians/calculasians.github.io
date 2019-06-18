@@ -242,21 +242,22 @@ ul.posts li {
 #about-page {
     background-color: white;
     position: relative;
-    height: 90vh;
     padding-top: 60px;
+    padding-bottom: 40px;
 }
 
 #about-box {
-    position: absolute;
-    margin-left: 10vw;
+    margin-left: 17vw;
     left: 100px;
     top: 100px;
     width: 40%;
 }
 
 #about-desc {
+    position: relative;
     color: black;
     font-size: 15px;
+
 }
 
 #about-header {
