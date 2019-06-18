@@ -288,6 +288,7 @@ ul.posts li {
 }
 
 .blog-title {
+    color: white;
     font-family: 'Raleway', "Trebuchet MS", Helvetica, sans-serif;
     text-align: center;
     margin-bottom: 40px;
