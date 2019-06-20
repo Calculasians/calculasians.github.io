@@ -323,9 +323,16 @@ ul.posts li {
     margin-top: 5vh;
 }
 
+#experience, #hobbies {
+    position: relative;
+    background-color: lightgray;
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+
 #projects {
     position: relative;
-    background-color: lightgrey;
+    background-color: white;
     padding-top: 30px;
     padding-bottom: 40px;
 }
