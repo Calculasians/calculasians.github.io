@@ -268,7 +268,7 @@ ul.posts li {
 
 #about-header {
     color: black;
-    font-size: 30px;
+    font-size: 27px;
 }
 
 #about-pic {
@@ -354,7 +354,7 @@ ul.posts li {
 }
 
 #proj-header {
-    font-size: 23px;
+    font-size: 22px;
     font-family: 'Raleway', "Trebuchet MS", Helvetica, sans-serif;
     margin-bottom: 2px;
 }
@@ -375,8 +375,7 @@ ul.posts li {
 
 #proj-type {
     font-family: 'Raleway', "Trebuchet MS", Helvetica, sans-serif;
-    font-size: 28px;
-    text-align: center;
+    font-size: 27px;
+    padding-left: 20vw;
     padding-top: 25px;
-    padding-bottom: 15px;
 }
