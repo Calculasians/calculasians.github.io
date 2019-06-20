@@ -372,3 +372,11 @@ ul.posts li {
     margin-right: 20px;
     margin-bottom: 3px;
 }
+
+#proj-type {
+    font-family: 'Raleway', "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 28px;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 15px;
+}
