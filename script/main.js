@@ -3,6 +3,7 @@ $(document).ready(function() {
     	function windowScrolled() {
 	if (window.pageYOffset < $(window).height() - 70) {
 		$(".nav-button").css("font-weight", "lighter");
+		$(".nav-button").css("margin-left", "0px");
 	} else if (window.pageYOffset >= $(window).height() - 70 && window.pageYOffset < $(window).height() + $("#about-page").height() - 70) {
             	$(".nav-button").css("font-weight", "lighter");
 		$(".nav-button").css("margin-left", "0px");
