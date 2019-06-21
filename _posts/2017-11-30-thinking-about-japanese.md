@@ -5,7 +5,7 @@ date: 2017-11-30
 ---
 <pre class="blog-posts">
 
-While I have written a finite amount of essays in the past, particularly before coming to college, I would consider this one of the more "long-windedly incoherent" one of them. Rather than an organized methodical execution, this was merely a stream of words that conveniently fit together in their immediate vicinity, a post that I started writing, only because I “felt like it” that day. Had no idea it would get so long that day either. Have fun reading (if your attention span can handle it) 🙂
+While I have written a finite amount of essays in the past, particularly before coming to college, I would consider this one of the more "long-windedly incoherent" one of them. Rather than an organized methodical execution, this was merely a stream of words that conveniently fit together in their immediate respective vicinities, a post that I started writing, only because I “felt like it” that day. Had no idea it would get so long that day either. Have fun reading (if your attention span can handle it) 🙂
 
 
 
