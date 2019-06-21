@@ -332,6 +332,10 @@ ul.posts li {
     padding-bottom: 40px;
 }
 
+#projects {
+    background-color: white;
+}
+
 .resize {
     object-fit: cover;
     width: 180px;
