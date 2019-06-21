@@ -24,7 +24,11 @@ nav {
     margin-bottom: 20px;
 }
 
-.nav-button {
+.nav-button, #nav-about, #nav-experience, #nav-projects, #nav-hobbies, #nav-writings {
+    -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
     font-family: 'Raleway', "Trebuchet MS", Helvetica, sans-serif;
     font-size: 20px;
     margin-bottom: 10px;
@@ -32,10 +36,7 @@ nav {
 
 .nav-button:hover {
     cursor: pointer;
-        -webkit-transition: all 0.7s ease-in-out;
-  -moz-transition: all 0.3s ease-in-out;
-  -o-transition: all 0.3s ease-in-out;
-  transition: all 0.3s ease-in-out;
+      
   margin-left: 6px;
 }
 
