@@ -1,12 +1,12 @@
 $(document).ready(function() {
 	window.onscroll = windowScrolled;
     	function windowScrolled() {
-	if (window.pageYOffset <$(window).height() - 50) {
+	if (window.pageYOffset < $(window).height() - 70) {
 		$(".nav-button").css("font-weight", "lighter");
-	} else if (window.pageYOffset >= $(window).height() - 50 && window.pageYOffset < $(window).height() + $("#about-page").height()) {
+	} else if (window.pageYOffset >= $(window).height() - 70 && window.pageYOffset < $(window).height() + $("#about-page").height() - 70) {
             	$(".nav-button").css("font-weight", "lighter");
             	$("#nav-about").css("font-weight", "bolder");
-        } else if (window.pageYOffset >= $(window).height() + $("#about-page").height() && 
+        } else if (window.pageYOffset >= $(window).height() + $("#about-page").height() - 70 && 
                    window.pageYOffset < $(window).height() + $("#about-page").height() + $("#experience").height()) {
             	$(".nav-button").css("font-weight", "lighter");                 
             	$("#nav-experience").css("font-weight", "bolder");
