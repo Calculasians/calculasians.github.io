@@ -71,7 +71,7 @@ a {
 }
 
 .mini-link {
-    color: white;
+    color: #27969a;
     transition: 0.3s ease-in-out;
 }
 
@@ -269,7 +269,7 @@ ul.posts li {
 
 #about-header {
     color: black;
-    font-size: 27px;
+    font-size: 25px;
 }
 
 #about-pic {
@@ -326,7 +326,8 @@ ul.posts li {
 
 #experience, #hobbies, #projects {
     position: relative;
-    background-color: lightgray;
+    color: #2b2a2a;
+    background-color: #ecebeb;
     padding-top: 30px;
     padding-bottom: 40px;
 }
@@ -368,7 +369,7 @@ ul.posts li {
 
 
 #proj-desc {
-    font-size: 16px;
+    font-size: 15px;
     font-family: 'Raleway', "Trebuchet MS", Helvetica, sans-serif;
     margin-right: 20px;
     margin-bottom: 3px;
@@ -376,7 +377,7 @@ ul.posts li {
 
 #proj-type {
     font-family: 'Raleway', "Trebuchet MS", Helvetica, sans-serif;
-    font-size: 27px;
+    font-size: 25px;
     padding-left: 20vw;
     padding-top: 25px;
 }
