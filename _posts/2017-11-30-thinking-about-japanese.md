@@ -5,16 +5,13 @@ date: 2017-11-30
 ---
 <pre class="blog-posts">
 
-
-This journey makes references to Lingq.com, an old website that had once partially contributed to my ability to speak Japanese today. A “Lingq” is essentially an online vocabulary card.
-
-This article was originally a forum post that I started writing, only because I “felt like it” that day. Had no idea it would get so long that day either. Have fun reading (if your attention span can handle it) 🙂
+While I have written a finite amount of essays in the past, particularly before coming to college, I would consider this one of the more "long-windedly incoherent" one of them. Rather than an organized methodical execution, this was merely a stream of words that conveniently fit together in their immediate vicinity, a post that I started writing, only because I “felt like it” that day. Had no idea it would get so long that day either. Have fun reading (if your attention span can handle it) 🙂
 
 
 
 -----Today, I got into a bit of a pickle. It was a warm summer day and I happened to have been walking down a narrow but long, rough but soothing cobblestone road in the midst of a shady crevice between two buildings stacked rather intricately around me as if I were in some sort of a deep dish pizza as a microbial virus sitting dead center in a piece of pepperoni. It was at that moment having reached this sort of transcended “nirvana” so to speak, that I realized that the true meaning of learning a language is not how, but where to do it.
 
-I searched corner after corner in this new world of mine, only to find that each new location brought on a new set of challenges to learning Japanese that I would not have otherwise encountered in my journey across the long lonely road. But one thing was certain in my mind all along, I was headed on the right track. And perhaps it was just that sense of reason that propelled me only forward, like a spring without any restoring force. And without any restoring force I was. Long after the day had gone by and the streets had vanished and sun dropping behind the cheesy crust before my eyes, that I checked the top right corner of my web browser. 5000 Lingq created today. I looked closer, with my fingers jamming uncontrollably at the space bar, 5001, 5002, 5003, I knew at that point there was no stop, the life behind me shifting behind my peripheral vision, vanishing into the unreachable void conventionally known as the past.
+I searched corner after corner in this new world of mine, only to find that each new location brought on a new set of challenges to learning Japanese that I would not have otherwise encountered in my journey across the long lonely road. But one thing was certain in my mind all along, I was headed on the right track. And perhaps it was just that sense of reason that propelled me only forward, like a spring without any restoring force. And without any restoring force I was. Long after the day had gone by and the streets had vanished and sun dropping behind the cheesy crust before my eyes, that I checked the top right corner of my web browser. 5000 vocab cards created today. I looked closer, with my fingers jamming uncontrollably at the space bar, 5001, 5002, 5003, I knew at that point there was no stop, the life behind me shifting behind my peripheral vision, vanishing into the unreachable void conventionally known as the past.
 
 But I knew these numbers weren’t going anywhere this time.
 
