@@ -339,6 +339,12 @@ ul.posts li {
     border-radius: 10px;
 }
 
+.resize-about {
+    object-fit: cover;
+    width: 300px;
+    height: 360px;
+}
+
 #proj-box {
     padding-left: 20vw;
     padding-top: 25px;
