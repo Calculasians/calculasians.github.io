@@ -1,64 +1,10 @@
+/* Global */
 html {
-  
     scroll-behavior: smooth;
 }
 
 body {
     margin: 0px auto; 
-    background-color: white;
-}
-
-nav {
-    text-align: left;
-    left: 6vw;
-    position: fixed;
-    top: 13vh;
-    z-index: 1;
-    color: white;
-    font-family:'Palatino', 'Garamond', serif;    
-    mix-blend-mode: difference;
-}
-
-.nav-buttonbig {
-    font-size: 30px;
-    margin-bottom: 20px;
-}
-
-.nav-button, #nav-about, #nav-experience, #nav-projects, #nav-hobbies, #nav-writings {
-    -webkit-transition: all 0.3s ease-in-out;
-  -moz-transition: all 0.3s ease-in-out;
-  -o-transition: all 0.3s ease-in-out;
-  transition: all 0.3s ease-in-out;
-    font-family: 'Raleway', "Trebuchet MS", Helvetica, sans-serif;
-    font-size: 20px;
-    margin-bottom: 10px;
-}
-
-.nav-button:hover {
-    cursor: pointer;
-      
-  margin-left: 6px;
-}
-
-h2 {
-    font-weight: 100;
-    font-size: 24px;
-}
-
-nav ul, footer ul {
-    display: block;
-    font-family: 'Raleway', "Trebuchet MS", Helvetica, sans-serif;
-    padding: 0px;
-    list-style: none;
-    /*font-weight: bold;*/
-    width:100%;
-    text-align: right;
-}
-
-nav ul li, footer ul li {
-    display: inline-block;
-    margin-right: 20px;
-    text-align: right;
 }
 
 a {
@@ -66,10 +12,75 @@ a {
     color: white;
 }
 
+h1 {
+    color: white;
+    margin-left: 7%;
+    font-size: 30px;
+    font-family: 'Raleway', "Trebuchet MS", Helvetica, sans-serif;
+    font-weight: 5;
+}
+
+p {
+    color: white;
+    margin-left: 7%;
+    margin-right: 7%;
+    font-size: 1.15em;
+    font-family: 'Raleway', "Trebuchet MS", Helvetica, sans-serif;
+    line-height: 1.4em;
+}
+
+/* Navigation Bar */
+nav {
+    left: 6vw;
+    position: fixed;
+    top: 13vh;
+    z-index: 1;
+    color: white;
+    mix-blend-mode: difference;
+}
+
+.nav-buttonbig {
+    font-size: 30px;
+    margin-bottom: 20px;
+    font-family:'Palatino', 'Garamond', serif;  
+}
+
+.nav-button, #nav-about, #nav-experience, #nav-projects, #nav-hobbies, #nav-writings {
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    font-family: 'Raleway', "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+/* Footer */
+nav ul, footer ul {
+    font-family: 'Raleway', "Trebuchet MS", Helvetica, sans-serif;
+    padding: 0px;
+    list-style: none;
+    width:100%;
+    text-align: right;
+}
+
+nav ul li, footer ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+footer {
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;   
+    font-size: .8em;
+}
+
 .footer-text {
     color: black;
 }
 
+/* Links */
 .mini-link {
     color: #27969a;
     transition: 0.3s ease-in-out;
@@ -79,6 +90,7 @@ a {
     color: #34cc2c;
 }
 
+/* Blog & Posts */
 .post-title, .blog-title {
     color: black;
     position: relative;
@@ -98,107 +110,12 @@ a {
     font-family: 'Georgia', serif;
 }
 
-h1 {
-    color: white;
-    margin-left: 7%;
-    font-size: 30px;
-    font-family: 'Raleway', "Trebuchet MS", Helvetica, sans-serif;
-    font-weight: 5;
-}
-
-.wrap-button {
-    text-align: center;
-}
-
-.main-button {
-    position: relative;
-    border-radius: 30px;
-    background-color: #1cc9d2;
-    border: none;
-    color: #ffffff;
-    text-align: center;
-    font-size: 18px;
-    font-family: "Anonymous Pro", monospace;
-    width: 160px;
-    height: 60px;
-    transition: all 0.5s;
-    cursor: pointer;
-    margin-top: 50vh;
-}
-
-.main-button span {
-    cursor: pointer;
-    display: inline-block;
-    position: relative;
-    transition: 0.5s;
-}
-
-.main-button span:after {
-    content: '\21af';
-    position: absolute;
-    opacity: 0;
-    top: 0;
-    right: -20px;
-    transition: 0.5s;
-}
-
-.main-button:hover span {
-    padding-right: 25px;
-}
-
-.main-button:hover span:after {
-    opacity: 1;
-    right: 0;
-}
-
-.container {
-    width: 100%;
-    /*background-image: url("https://calculasians.github.io/light-veneer.png");*/
-}
-
-.cover-page { 
-    position: relative
-    width: 100%;
-    height: 100vh;
-    background-image: url("../calculasians.github.io/images/craterlake.jpg");
-    background-size: cover;
-    box-sizing: border-box;
-    filter: brightness(95%);
-
-}
-
-.cover-page-box {
-    display: inline-block;
-    margin-left: 20vw;
-    margin-right: 20vw;
-    margin-top: 10vh;
-    border: 1px white;
-}
-
-.cover-page-header {
-    font-size: 30px;
-}
-
-.cover-page-text {
-    position: inline-block; 
-    color: white;
-    mix-blend-mode: difference;
-    padding-bottom: 40px;
-}
-
-.sub-header {
-    font-family: 'Raleway', "Trebuchet MS", Helvetica, sans-serif;
-    font-style: italic;
-    font-size: 1.1em;
-    color: white;
-    mix-blend-mode: difference;
-}
-
 pre {
     white-space:pre-wrap;
 }
 
 .blog-posts {
+    color: black;
     position: relative;
     top: 5px;
     margin-left: 18%;
@@ -206,22 +123,6 @@ pre {
     font-family: 'Raleway', "Trebuchet MS", Helvetica, sans-serif;
     font-style: italic;
     font-size: 1em;
-}
-
-p {
-    color: white;
-    margin-left: 7%;
-    margin-right: 7%;
-    font-size: 1.15em;
-    font-family: 'Raleway', "Trebuchet MS", Helvetica, sans-serif;
-    line-height: 1.4em;
-}
-footer {
-    margin-left: auto;
-    margin-right: auto;
-    width: 85%;   
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
 }
 
 ul.posts { 
@@ -238,14 +139,35 @@ ul.posts li {
     font-style: italic;
 }
 
-/* #about is deprecated */
-#about {
-    margin-left: 7%;
-    margin-right: 7%;
-    font-family: 'Raleway', "Trebuchet MS", Helvetica, sans-serif;
-    font-size: 1.5em;
+/* Cover Page */
+.cover-page { 
+    width: 100%;
+    height: 100vh;
+    background-image: url("../calculasians.github.io/images/craterlake.jpg");
+    background-size: cover;
+    filter: brightness(95%);
 }
 
+.cover-page-box {
+    display: inline-block;
+    margin-left: 20vw;
+    margin-right: 10vw;
+    margin-top: 10vh;
+}
+
+.cover-page-text {
+    mix-blend-mode: difference;
+}
+
+.sub-header {
+    font-family: 'Raleway', "Trebuchet MS", Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 1.1em;
+    color: white;
+    mix-blend-mode: difference;
+}
+
+/* About Page */
 #about-page {
     background-color: white;
     position: relative;
@@ -255,16 +177,13 @@ ul.posts li {
 
 #about-box {
     margin-left: 17vw;
-    left: 100px;
     top: 100px;
     width: 40%;
 }
 
 #about-desc {
-    position: relative;
     color: black;
     font-size: 15px;
-
 }
 
 #about-header {
@@ -273,13 +192,19 @@ ul.posts li {
 }
 
 #about-pic {
-    color: black;
     position: absolute;
     right: 0px;
     top: 120px;
     width: 40%;
 }
 
+.resize-about {
+    object-fit: cover;
+    width: 300px;
+    height: 310px;
+}
+
+/* Writings Page */
 #writings-page {
     background-color: black;
 }
@@ -303,27 +228,7 @@ ul.posts li {
     color: white;
 }
 
-.blog-posts {
-    color: black;
-}
-
-#resume-background {
-    position: relative;
-    width: 100%;
-    height: 100vh;
-    background-image: url("../yellowstone.jpg");
-    background-size: cover;
-    box-sizing: border-box;
-}
-
-#resume-content {
-    display: inline-block;
-    width: 75%;
-    height: 95vh;
-    margin-left: 20vw;
-    margin-top: 5vh;
-}
-
+/* Experience, Projects, Hobbies Pages */
 #experience, #hobbies, #projects {
     position: relative;
     color: #2b2a2a;
@@ -341,12 +246,6 @@ ul.posts li {
     width: 180px;
     height: 180px;
     border-radius: 10px;
-}
-
-.resize-about {
-    object-fit: cover;
-    width: 300px;
-    height: 310px;
 }
 
 #proj-box {
@@ -376,7 +275,6 @@ ul.posts li {
     font-family: 'Raleway', "Trebuchet MS", Helvetica, sans-serif;
     margin-bottom: 20px;
 }
-
 
 #proj-desc {
     font-size: 15px;
