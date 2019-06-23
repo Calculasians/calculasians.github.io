@@ -198,14 +198,3 @@ title: Daniel's Website
 	</div>
 </div>
 
-<div id="writings-page">
-	<div id="writings">
-		<h1 class="blog-title">I also write, occasionally</h1>
-		<ul class="posts">
-
-	  	{% for post in site.posts %}
-	    	<li><span>{{ post.date | date_to_string }}</span> » <a class="mini-link" target="_blank" href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	  	{% endfor %}
-		</ul>
-	</div>
-</div>
